@@ -1,5 +1,5 @@
 configparser==4.0.2
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 h5py==2.10.0
