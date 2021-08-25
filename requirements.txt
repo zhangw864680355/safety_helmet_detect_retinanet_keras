@@ -20,4 +20,4 @@ pyparsing==2.0.3
 six==1.10.0
 tensorboard==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.5.1
