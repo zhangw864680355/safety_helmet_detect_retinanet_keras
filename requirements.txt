@@ -12,7 +12,7 @@ lxml==3.5.0
 Markdown==3.1.1
 matplotlib==3.0.3
 numpy==1.17.4
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 Pillow==3.1.2
 progressbar2==3.47.0
 pycocotools==2.0
